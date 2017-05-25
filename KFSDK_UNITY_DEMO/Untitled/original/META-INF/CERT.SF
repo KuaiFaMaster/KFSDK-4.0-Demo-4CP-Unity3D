@@ -1,0 +1,76 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: X/mXyE/+uxBfj+Q6OUQVjwu9/qI=
+Created-By: 1.0 (Android)
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA1-Digest: mRbEQQBOH7ORjsbHwlQfMyzfH9c=
+
+Name: AndroidManifest.xml
+SHA1-Digest: DRHkkVtcfjlL+EMy8MGqQRVsjtA=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA1-Digest: ePUDA1ZmwwvLbib8OVOlYDANxLg=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: gDzHBDLVY7BDFa5+tDy6YRGasak=
+
+Name: assets/bin/Data/sharedassets0.assets
+SHA1-Digest: GSvo881MyIuGsJKGXzDe8AmaeYk=
+
+Name: assets/bin/Data/settings.xml
+SHA1-Digest: b1y19cFQt5UTni+RVpJNKG70dsU=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA1-Digest: KxMr079TAD/DJtHridL0wgoVNsA=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: zKHdUBB4S+yo6FgTYlP3k20IbeA=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: SofpR2D8LjCboZAm7SjqJAT+8bk=
+
+Name: assets/bin/Data/splash.png
+SHA1-Digest: pLIFGreTzOXIqH7c3hYliHrLbHE=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: 2xHx1XxeXuT085eRLQ9w2Gtbyl8=
+
+Name: assets/bin/Data/mainData
+SHA1-Digest: XiIz/u58ILsFuydJDcy5qA+8W98=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: F0u+YfXcp1iBnm0aOe8zZzX92oo=
+
+Name: lib/x86/libunity.so
+SHA1-Digest: cMEmM5vuOUavc1vRnBbT4IQ47F8=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA1-Digest: 4tu3IVJINpY1tT3PgzvF2doQ5Sc=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA1-Digest: vL0qNSUIDj0fvvKQILN5oMW9EVE=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA1-Digest: 4YZYikjYhoXkpKTKgZ1558RDPvk=
+
+Name: resources.arsc
+SHA1-Digest: gQDfGiQmR9YMjyzTOJm1Tygkh+g=
+
+Name: lib/armeabi-v7a/libmono.so
+SHA1-Digest: iZvbr52JG2c4EJmMc8dlIBcLxck=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA1-Digest: /5QqD3Of9sE5glCme10XdpkiDaQ=
+
+Name: lib/x86/libmono.so
+SHA1-Digest: DxC1pb8Sef/Nnnzr6DwCKAYi9qY=
+
+Name: lib/x86/libmain.so
+SHA1-Digest: 5XPU1vkeBmaLMQadjdbdZoDXdaQ=
+
+Name: classes.dex
+SHA1-Digest: MiuLVosPVwNCIs5D+yU1OaNRZOA=
+
+Name: assets/bin/Data/PlayerConnectionConfigFile
+SHA1-Digest: fDUpgaZEP8YaJgLUcqgnZz7Djuo=
+

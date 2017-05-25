@@ -1,0 +1,75 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA1-Digest: B4+b6efdkX0jqyf9i13ctRaCTyw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Z/ESpHyagk1Y7WwskA+NhRZZ0Wo=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA1-Digest: RHjbBE6xS07/O8RTfQSZWAmI0uk=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: OvKz4H6BK5/jlLXtGYAB5wraXew=
+
+Name: assets/bin/Data/sharedassets0.assets
+SHA1-Digest: J8K2ANmUI/uriLKVPAJwznx2+QE=
+
+Name: assets/bin/Data/settings.xml
+SHA1-Digest: 6FK2Ddfn/BJt8EEcxddER4ngN9I=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA1-Digest: s1e4p+38r5bnUAiblz/cmjKdRLU=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: otshjKzdAMxFh47o0973BszQ9hU=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: BI0TM/GMTKRTFzQULDy7PBwEtgg=
+
+Name: assets/bin/Data/splash.png
+SHA1-Digest: WL+5PBN6ZD41VmsXXQ5tkpJcMy4=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: jZEGqalBj5sCWzCOxPdTmNtx4v8=
+
+Name: assets/bin/Data/mainData
+SHA1-Digest: 5O5cm5eZStbpTYPRzzLhgyDZydQ=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: oXmSPGkoYMpReL+nj4zkML2ZMFU=
+
+Name: lib/x86/libunity.so
+SHA1-Digest: V2Q6KRvx82gctzR6T1F5oi7eObo=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA1-Digest: Cz/WVwp+Rqt4w76WDAgYsTQmbeA=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA1-Digest: +rKV5l7UVgtncGKs+DxYlCybqLU=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA1-Digest: PohaUnIKKVwCHhe9XaofCXUd/dE=
+
+Name: resources.arsc
+SHA1-Digest: 8c2mDtVxmgapLaIrZHW/XIcILlM=
+
+Name: lib/armeabi-v7a/libmono.so
+SHA1-Digest: 8dytLUhnrSa5sSXVdLuVcK5986s=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA1-Digest: oppl2SFzfZ8n2aKpfidZU83eWs8=
+
+Name: lib/x86/libmono.so
+SHA1-Digest: TkzUl3pEsZfnpjAvl+PD39MlVM8=
+
+Name: lib/x86/libmain.so
+SHA1-Digest: o59Ud6HR7EIthio0Q4NPrHpSoAM=
+
+Name: classes.dex
+SHA1-Digest: Y2tjrraApmJJWxb5yy9rxExLyLs=
+
+Name: assets/bin/Data/PlayerConnectionConfigFile
+SHA1-Digest: puI26Rx+XD4kO2wR/5xsodOydJc=
+
